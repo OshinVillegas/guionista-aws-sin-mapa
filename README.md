@@ -111,4 +111,4 @@ agentcore deploy --yes
 ---
 
 Hecho por **Oshin Villegas** como parte de **AWS Sin Mapa · IA desde 0**.
-*"Porque para comenzar a aprender, no necesitas tener un mapa."*
+*"APRENDE AWS DESDE 0 CONMIGO Y NO TE PIERDAS LA PROXIMA CLASE DE AWS SIN MAPA."*
