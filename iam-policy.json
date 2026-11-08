@@ -1,0 +1,10 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "bedrock:Retrieve",
+      "Resource": "arn:aws:bedrock:us-east-1:TU_NUMERO_DE_CUENTA:knowledge-base/TU_KNOWLEDGE_BASE_ID"
+    }
+  ]
+}
